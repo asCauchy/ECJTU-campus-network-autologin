@@ -1,0 +1,5 @@
+# Personal config: contains DPAPI-encrypted password + student ID. Never commit.
+campus-config.json
+
+# Log files (contain student ID + login history).
+*.log
